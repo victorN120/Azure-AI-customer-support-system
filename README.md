@@ -96,8 +96,8 @@ Environment-based configuration
 
 ▶️ How to Run Locally
 1️⃣ Clone the repo
-git clone https://github.com/your-username/ai-customer-support
-cd ai-customer-support
+git clone https://github.com/your-username/Azure-AI-customer-support-system
+cd Azure-AI-customer-support-system
 
 2️⃣ Create virtual environment
 python -m venv venv
