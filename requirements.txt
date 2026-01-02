@@ -1,0 +1,21 @@
+# Core backend
+fastapi
+uvicorn
+
+# Azure SDKs
+azure-cognitiveservices-speech
+azure-ai-contentsafety
+
+# HTTP & env
+requests
+python-dotenv
+
+# LangChain + Azure OpenAI
+langchain
+langchain-core
+langchain-openai
+
+# Frontend (Admin Panel)
+streamlit
+
+
